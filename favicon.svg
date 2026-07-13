@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="16" y="16" width="32" height="32" rx="4" transform="rotate(45 32 32)" fill="#ff3b00"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <metadata>BPaaS site identity 4ff245ed907622a6</metadata>
+  <rect width="64" height="64" rx="12" fill="hsl(306 75% 24%)"/>
+  <path d="M31 0h33v64H17Z" fill="hsl(63 80% 64%)" opacity="0.82"/>
+  <g transform="rotate(200 32 32)" opacity="0.42"><path d="M13 45c7-23 31-23 38 0" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/></g>
+  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">JT</text>
+</svg>
